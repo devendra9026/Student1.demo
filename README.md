@@ -1,2 +1,2 @@
 # Student1.demo
-this is Devendra.
+this is Devendra(tech with gyan).
